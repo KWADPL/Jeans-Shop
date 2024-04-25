@@ -1,0 +1,10 @@
+const s = 20;
+const m = 40;
+const l = 20;
+const stock = [s,m,l];
+const firstElement = stock[stock[0] -= 1];
+const secondElement = stock[stock[1] += 1];
+console.log("Current Stock");
+console.log("s: " + stock[0]);
+console.log("m: " + stock[1]);
+console.log("l: " + stock[3]);
